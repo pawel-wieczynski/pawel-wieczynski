@@ -9,6 +9,8 @@ Mathematician and data specialist with expertise in finance. Private tutor on st
 
 🌱 I’m currently learning **Azure, Spark, Tensorflow**
 
+👨‍💻 Portfolio of my data analytics notebooks is available at [RPubs](https://rpubs.com/pawel-wieczynski)
+
 📫 How to reach me **wieczynskipawel@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
